@@ -1,0 +1,19 @@
+namespace Requests
+
+	class Requests
+		shared
+				
+			def get(url as String)
+				pass
+
+			def post(url as String)
+				pass
+
+			def put(url as String)
+				pass
+
+			def patch(url as String)
+				pass
+
+			def delete(url as String)
+				pass
